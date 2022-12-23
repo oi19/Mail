@@ -53,7 +53,7 @@
 
 # Setup
    ```shell script
-git clone https://github.com/Mail/oi19.git
+git clone https://github.com/oi19/Mail
 cd Mail
 ```
 Run the following command to run your server.
